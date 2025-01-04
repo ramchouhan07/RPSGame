@@ -41,11 +41,11 @@ const touch = ()=>{
  
 <div  className=" bg-gradient-to-r from-blue-400 via-teal-500 to-green-400 h-[100vh] fixed xl:h-[100%]  ">
 <div className="justify-center items-center  flex  ">
-<img  src= {img} alt="fgjsdkghdjk;gsrhn" className="h-[600px] w-[600px] m-8 rounded-full xl:h-[250px] xl:w-[250px]"/>
+<img  src= {img} alt="fgjsdkghdjk;gsrhn" className="h-[300px] w-[300px] m-8 rounded-full xl:h-[250px] xl:w-[250px]"/>
 </div>
 
     <div className="justify-center items-center flex content-center h-full   w-screen">
-       <div className="items-center "><button onClick={touch} className=" h-[500px] w-[500px] xl:w-[30vh] xl:h-[30vh] text-5xl   hover:scale-110 active:scale-110 xl font-bold rounded-full bg-green-800 xl:mb-56   border-4 border-transparent p-4 bg-gradient-to-r from-purple-500 via-pink-500 to-red-500  shadow-2xl hover:shadow-2xl hover:border-white transition-all duration-300">TOUCH ME</button></div>
+       <div className="items-center "><button onClick={touch} className=" h-[250px] w-[250px] xl:w-[30vh] xl:h-[30vh] text-5xl   hover:scale-110 active:scale-110 xl font-bold rounded-full bg-green-800 mb-56   border-4 border-transparent p-4 bg-gradient-to-r from-purple-500 via-pink-500 to-red-500  shadow-2xl hover:shadow-2xl hover:border-white transition-all duration-300">TOUCH ME</button></div>
     </div>
 </div>
     </>)
