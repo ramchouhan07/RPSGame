@@ -45,7 +45,7 @@ const touch = ()=>{
 </div>
 
     <div className="justify-center items-center flex content-center h-full   w-screen">
-       <div className="items-center "><button onClick={touch} className=" h-[250px] w-[250px] xl:w-[30vh] xl:h-[30vh] text-5xl   hover:scale-110 active:scale-110 xl font-bold rounded-full bg-green-800 mb-56   border-4 border-transparent p-4 bg-gradient-to-r from-purple-500 via-pink-500 to-red-500  shadow-2xl hover:shadow-2xl hover:border-white transition-all duration-300">TOUCH ME</button></div>
+       <div className="items-center "><button onClick={touch} className=" h-[250px] w-[250px] xl:w-[30vh] xl:h-[30vh] text-5xl   hover:scale-110 active:scale-110 xl font-bold rounded-full bg-green-800 mb-80   border-4 border-transparent p-4 bg-gradient-to-r from-purple-500 via-pink-500 to-red-500  shadow-2xl hover:shadow-2xl hover:border-white transition-all duration-300">TOUCH ME</button></div>
     </div>
 </div>
     </>)

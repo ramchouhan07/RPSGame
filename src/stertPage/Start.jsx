@@ -17,7 +17,7 @@ const StartPage = ({ onHandler })=>{
              <button className="m-4 text-6xl h-full w-[60%] bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 text-white px-6 py-3  font-semibold rounded-full transition-all duration-300 ease-in-out shadow-lg cursor-pointer hover:scale-110 hover:opacity-80 hover:shadow-2xl focus:outline-none focus:ring-4 focus:ring-pink-300">
              PAPER
              </button>
-             <button className="m-4 text-6xl h-full w-[60%] bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 text-white px-6 py-3  font-semibold rounded-full transition-all duration-300 ease-in-out shadow-lg cursor-pointer hover:scale-110 hover:opacity-80 hover:shadow-2xl focus:outline-none focus:ring-4 focus:ring-pink-300">
+             <button className="m-4  text-5xl p-1  h-full w-[60%] bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 text-white px-6 py-3  font-semibold rounded-full transition-all duration-300 ease-in-out shadow-lg cursor-pointer hover:scale-110 hover:opacity-80 hover:shadow-2xl focus:outline-none focus:ring-4 focus:ring-pink-300">
              SCISSOR
              </button>
              
